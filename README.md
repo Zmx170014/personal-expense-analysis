@@ -1,8 +1,4 @@
-# personal-expense-analysis
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.0+-green.svg)](https://pandas.pydata.org/)
-[![Visualization](https://img.shields.io/badge/Visualization-Matplotlib/Seaborn-orange.svg)](https://matplotlib.org/)
-
+personal-expense-analysis
 ## 🎯 项目核心
 - **目标**：分析个人近一年消费数据，定位优化空间
 - **数据规模**：3128条原始记录 → 2855条有效支出数据
@@ -11,6 +7,10 @@
 1.  **消费结构**：出行（36.1%）、转账（20.5%）、旅行（15.4%）为主要支出项
 2.  **时间规律**：2月/9月支出最高，周三/周五消费集中（聚餐/旅游驱动）
 3.  **优化重点**：聚餐AA频次、旅游出行方式、无规划消费场景
+
+## 📊 核心可视化
+![可视化图片集](https://github.com/Zmx170014/personal-expense-analysis/commit/fcc4a4f5c97c7878915e764dd64acad9c46fbaa6)
+
 
 ## 💡 行动建议
 - 设定每月聚餐预算上限
