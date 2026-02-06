@@ -32,5 +32,10 @@ graph TD
     C --> D[数据分析]
     D --> E[结论建议]
 ```
+## 依赖安装
+pip install pandas matplotlib
+
+## 快速运行
+python src/Python源代码.py
 ### 📝 补充说明
 完整分析报告、代码及可视化图表详见pdf文件，本文件仅展示核心结论。
